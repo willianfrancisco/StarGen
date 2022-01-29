@@ -20,3 +20,7 @@ Projeto Realizado Durante estudos de desenvolvimento web utilizando Angular vers
 - Adicionar Piloto (Inserindo Nome,Idade e Planeta Natal).
 - Editar Piloto (Permitindo editar Id, Nome, Idade e Planeta Natal).
 - Deletar Piloto.
+
+## Layout
+![Home](https://github.com/willianfrancisco/stargen/blob/master/img/home.PNG)![HomeNave](https://github.com/willianfrancisco/stargen/blob/master/img/homeNave.PNG)
+![HomePiloto](https://github.com/willianfrancisco/stargen/blob/master/img/homePiloto.PNG)![AdicionaPiloto](https://github.com/willianfrancisco/stargen/blob/master/img/addPiloto.PNG)![AdicionaNave](https://github.com/willianfrancisco/stargen/blob/master/img/addNave.PNG)![EditarNave](https://github.com/willianfrancisco/stargen/blob/master/img/editarNAve.PNG)![EditarPiloto](https://github.com/willianfrancisco/stargen/blob/master/img/editarPiloto.PNG)
