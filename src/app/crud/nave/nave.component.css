@@ -1,0 +1,20 @@
+table{
+    width: 100%;
+}
+
+.container{
+    padding: 50px 80px;
+    margin:auto;
+}
+
+.button{
+    border: 1px solid #000000;
+    background-color: #00FF00;
+    
+    font-size: 15px;
+}
+
+.button:hover{
+    color: #ffffff;
+    transition: color .5s;
+}

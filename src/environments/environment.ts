@@ -6,6 +6,9 @@ export const environment = {
   production: false
 };
 
+export const API_PATH_NAVE = "https://localhost:44300/api/nave"
+export const API_PATH_PILOTO = "https://localhost:44300/api/piloto"
+
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
